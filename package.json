@@ -12,7 +12,10 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "cannon": "^0.6.2",
+    "phaser": "^3.55.2",
     "pinia": "^2.0.32",
+    "pixijs": "^7.1.4",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
